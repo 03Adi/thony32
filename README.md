@@ -1,7 +1,7 @@
 Hi Dev's :)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony
 ===============================================================================================================================
 
-Software Engineer.  
+Software Engineer ---
 -----------------
 
 * 🌍  I'm based in Madagascar
@@ -42,5 +42,4 @@ Software Engineer.
 <div align="center"><a href="https://app.daily.dev/thony32"><img src="https://api.daily.dev/devcards/v2/4hT7K8x1VDoBVBb5GMkFz.png?r=bn4&type=wide" width="652" alt="Anthony's Dev Card"/></a></div><br/>
 
 &nbsp;<div align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6d5yq5t467e2yw7eyarn42lq1&count=5)</div><br/>
-
 
